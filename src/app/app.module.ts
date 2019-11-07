@@ -7,9 +7,10 @@ import { AppComponent } from './app.component';
 import { CursoModule } from './cursos/curso.module';
 
 
+
 @NgModule({
   declarations: [
-    AppComponent		
+    AppComponent	
   ],
   imports: [
 		BrowserModule,
